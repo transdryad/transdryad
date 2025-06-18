@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm currently working on a RougeLand: a small roguelike in c++ with libtcod. Yes, I know it's misspelled.
+I'm currently working on a RougeLand: a small roguelike in c++ with libtcod. Yes, I know it's misspelled. I don't care.
 
 ### Stats
 
